@@ -21,6 +21,6 @@ int main(void)
             else
                 n++;
         }
-	printf("the next prime number is %d",n+1);
-	return 0;
+    printf("the next prime number is %d",n+1);
+    return 0;
 }
