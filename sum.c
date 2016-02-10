@@ -17,6 +17,6 @@ void main()
 	sum2=add(a,b,c);
 	sum3=sum[0]+sum[1]+sum[2];
 	printf("sum of three variables =%d\n",sum1);
-	printf("sum using array =%d\n",sum2);
-	printf("sum using functions =%d\n",sum3);
+	printf("sum using functions =%d\n",sum2);
+	printf("sum using array =%d\n",sum3);
 }
